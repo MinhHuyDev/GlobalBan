@@ -1,1 +1,1 @@
-tôi phải quay lại đây chỉnh sửa file globalMain.json vì bị bắt bẻ sai định dạng🐧🐧
+tôi phải quay lại đây chỉnh sửa file globalBan.json vì bị bắt bẻ sai định dạng🐧🐧
